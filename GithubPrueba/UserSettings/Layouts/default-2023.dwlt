@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 8
-    y: 51
+    x: 1972
+    y: 28
     width: 1904
     height: 981
   m_ShowMode: 4
@@ -1097,7 +1097,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: -0.38301003, y: 3.8103325, z: 1448.8989}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1149,7 +1149,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 10
     speed: 2
-    m_Value: 7.4081426
+    m_Value: 10
   m_Ortho:
     m_Target: 1
     speed: 2
